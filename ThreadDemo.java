@@ -57,3 +57,21 @@ class ThreadDemo
 		new Thread2();
 	}
 }
+
+
+/*Output:
+BMSCE
+CSE
+CSE
+CSE
+CSE
+CSE
+BMSCE
+CSE
+CSE
+CSE
+CSE
+CSE
+BMSCE
+CSE
+CSE....so on*/
